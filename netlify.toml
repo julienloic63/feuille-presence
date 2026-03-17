@@ -1,0 +1,7 @@
+[build]
+  command = "echo 'Netlify build'"
+  functions = "netlify/functions"
+  publish = "."
+
+[env]
+  RESEND_API_KEY = "re_UVrwnyqH_C7vHJctuJ54EQHkHhVe77sj6"
